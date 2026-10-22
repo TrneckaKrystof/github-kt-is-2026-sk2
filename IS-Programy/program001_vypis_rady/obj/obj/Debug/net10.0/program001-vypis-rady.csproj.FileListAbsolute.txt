@@ -1,0 +1,5 @@
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/obj/Debug/net10.0/program001-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/obj/Debug/net10.0/program001-vypis-rady.AssemblyInfoInputs.cache
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/obj/Debug/net10.0/program001-vypis-rady.AssemblyInfo.cs
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/obj/Debug/net10.0/program001-vypis-rady.csproj.CoreCompileInputs.cache
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/obj/Debug/net10.0/program001-vypis-rady.sourcelink.json

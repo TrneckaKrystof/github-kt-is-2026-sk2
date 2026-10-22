@@ -1,0 +1,15 @@
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/Debug/net10.0/program001_vypis_rady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/Debug/net10.0/program001_vypis_rady.AssemblyInfoInputs.cache
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/Debug/net10.0/program001_vypis_rady.AssemblyInfo.cs
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/Debug/net10.0/program001_vypis_rady.csproj.CoreCompileInputs.cache
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/Debug/net10.0/program001_vypis_rady.sourcelink.json
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/bin/Debug/net10.0/program001_vypis_rady
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/bin/Debug/net10.0/program001_vypis_rady.deps.json
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/bin/Debug/net10.0/program001_vypis_rady.runtimeconfig.json
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/bin/Debug/net10.0/program001_vypis_rady.dll
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/bin/Debug/net10.0/program001_vypis_rady.pdb
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/Debug/net10.0/program001_vypis_rady.dll
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/Debug/net10.0/refint/program001_vypis_rady.dll
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/Debug/net10.0/program001_vypis_rady.pdb
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/Debug/net10.0/program001_vypis_rady.genruntimeconfig.cache
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program001_vypis_rady/obj/Debug/net10.0/ref/program001_vypis_rady.dll

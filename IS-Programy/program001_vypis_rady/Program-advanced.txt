@@ -76,7 +76,7 @@ namespace VypisRadyPokrocily
         /// Pomocná metoda pro bezpečné načtení celého čísla z konzole.
         /// Ošetřuje neplatné vstupy (písmena, prázdné řetězce).
         /// </summary>
-        static int NactiCeleCislo("Zpráva pro uživatele")
+        static int NactiCeleCislo(string vyzva)
         {
             int cislo;
             Console.Write(vyzva);

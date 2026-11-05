@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/trnec/aaa/github-kt-is-2026-sk2/program002a-soucet-cifer/program002a-soucet-cifer.csproj",
+      "projectUniqueName": "/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/program002a-soucet-cifer.csproj",
       "projectName": "program002a-soucet-cifer",
-      "projectPath": "/Users/trnec/aaa/github-kt-is-2026-sk2/program002a-soucet-cifer/program002a-soucet-cifer.csproj",
+      "projectPath": "/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/program002a-soucet-cifer.csproj",
       "packagesPath": "/Users/trnec/.nuget/packages/",
-      "outputPath": "/Users/trnec/aaa/github-kt-is-2026-sk2/program002a-soucet-cifer/obj/",
+      "outputPath": "/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/trnec/.nuget/NuGet/NuGet.Config"

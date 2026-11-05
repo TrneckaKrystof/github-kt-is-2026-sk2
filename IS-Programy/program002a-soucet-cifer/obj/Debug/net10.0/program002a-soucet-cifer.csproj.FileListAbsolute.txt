@@ -1,0 +1,15 @@
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net10.0/program002a-soucet-cifer
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net10.0/program002a-soucet-cifer.deps.json
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net10.0/program002a-soucet-cifer.runtimeconfig.json
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net10.0/program002a-soucet-cifer.dll
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net10.0/program002a-soucet-cifer.pdb
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.AssemblyInfoInputs.cache
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.AssemblyInfo.cs
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.sourcelink.json
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.dll
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/refint/program002a-soucet-cifer.dll
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.pdb
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.genruntimeconfig.cache
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/ref/program002a-soucet-cifer.dll

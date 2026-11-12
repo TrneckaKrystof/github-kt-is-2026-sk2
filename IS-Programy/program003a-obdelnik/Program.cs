@@ -35,7 +35,8 @@ while (again.ToLower() == "a")
     // 3. Jádro algoritmu: Vnořený cyklus pro 2D rastr
     // Vnější cyklus počítá řádky (shora dolů)
    // Vnější cyklus: i jde od 1 do zadané velikosti
-for (int i = height; i >= 1; i--)
+// Vnější cyklus – počítá řádky
+for (int i = 1; i <= height; i++)
 {
     // Nastavení barvy podle řádku
     if (i % 2 == 0)
@@ -47,6 +48,7 @@ for (int i = height; i >= 1; i--)
         Console.ForegroundColor = ConsoleColor.Red;
     }
 
+    // Vnitřní cyklus – vykresluje hvězdičky
     for (int j = 1; j <= i; j++)
     {
         Console.Write("* ");

@@ -1,0 +1,15 @@
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/bin/Debug/net10.0/program003a-obdelnik
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/bin/Debug/net10.0/program003a-obdelnik.deps.json
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/bin/Debug/net10.0/program003a-obdelnik.runtimeconfig.json
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/bin/Debug/net10.0/program003a-obdelnik.dll
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/bin/Debug/net10.0/program003a-obdelnik.pdb
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.AssemblyInfoInputs.cache
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.AssemblyInfo.cs
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.csproj.CoreCompileInputs.cache
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.sourcelink.json
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.dll
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/refint/program003a-obdelnik.dll
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.pdb
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.genruntimeconfig.cache
+/Users/trnec/aaa/github-kt-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/ref/program003a-obdelnik.dll

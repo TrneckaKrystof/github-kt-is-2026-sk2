@@ -38,7 +38,7 @@ while (again.ToLower() == "a")
 for (int i = Size; i >= 1; i--)
 {
     // Vnitřní cyklus: j se zastaví na hodnotě aktuálního řádku i!
-    for (int j = i; j <= i; j++)
+    for (int j = 1; j <= i; j++)
     {
         Console.Write("* ");
     }

@@ -1,4 +1,6 @@
-﻿string again = "a";
+﻿using System.Drawing;
+
+string again = "a";
 
 while (again.ToLower() == "a")
 {
@@ -32,18 +34,17 @@ while (again.ToLower() == "a")
 
     // 3. Jádro algoritmu: Vnořený cyklus pro 2D rastr
     // Vnější cyklus počítá řádky (shora dolů)
-    for (int i = 1; i <= height; i++)
+   // Vnější cyklus: i jde od 1 do zadané velikosti
+for (int i = Size; i >= 1; i--)
+{
+    // Vnitřní cyklus: j se zastaví na hodnotě aktuálního řádku i!
+    for (int j = i; j <= i; j++)
     {
-        // Vnitřní cyklus sází sloupce v aktuálním řádku (zleva doprava)
-        for (int j = 1; j <= width; j++)
-        {
-            Console.Write("* ");
-            System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100)); // Efekt animace vykreslování
-        }
-
-        // Konec řádku -> přesun kurzoru na nový řádek
-        Console.WriteLine();
+        Console.Write("* ");
     }
+    Console.WriteLine(); // Odřádkování
+    
+}
 
     // 4. Dotaz na opakování
     Console.WriteLine();
